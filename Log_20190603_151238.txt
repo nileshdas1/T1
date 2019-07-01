@@ -1,0 +1,102 @@
+[3] 3:12:38 PM: Log started for 'C:\Tosca_Projects\TOSCA_Workspaces\Multi\Multi.tws'
+[3] 3:12:38 PM: Log level: 4
+[3] 3:12:38 PM: Release: 11.2.0.14672
+[3] 3:12:38 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 11.2.0.1051 (13484)
+[3] 3:12:38 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 11.2.0.1051 (14372)
+[3] 3:12:38 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 11.2.0.1051 (13545)
+    + : SAPSolutionManagerIntegration 11.2.0.1051 (14824)
+[3] 3:12:38 PM:  + OptIntAddIn: OptIntAddIn 11.2.0.1051 (12612)
+[3] 3:12:38 PM:  + RemoteControl: RemoteControlAddIn 11.2.0.1051 (12612)
+[3] 3:12:38 PM:  + Reporting: ReportingAddIn 11.2.0.1051 (14114)
+[3] 3:12:38 PM:  + Requirements: RequirementsManagement 11.2.0.1051 (13701)
+[3] 3:12:38 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 11.2.0.1051 (16467)
+[3] 3:12:38 PM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 11.2.0.1051 (13572)
+[3] 3:12:38 PM:  + TestCaseDesign: TestCaseDesign 11.2.0.1051 (13410)
+[3] 3:12:38 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 11.2.0.1051 (12612)
+[3] 3:12:38 PM:  + XDefinitions: XDefinitions 11.2.0.1051 (16425)
+[3] 3:12:38 PM: Opened from Workspace File 'C:\Tosca_Projects\TOSCA_Workspaces\Multi\Multi.tws'
+[3] 3:12:38 PM: Trying to authenticate ldap user nilesh_das against workspace
+[3] 3:12:38 PM: Failed to authenticate ldap user against workspace
+[3] 3:12:41 PM: Workspace.Login for 'Admin'succeeded
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'Multi''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Ready'
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'Multi''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Ready'
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh navigation view 'Multi''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Ready'
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh detail view 'Multi''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Ready'
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:12:42 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 3:12:42 PM: OpenWorkspace took 00:00:05.0670000 to finish
+[4] 3:12:47 PM:  ShowStatusInfo: 'Ready'
+[4] 3:12:49 PM:  ShowStatusInfo: '1 object selected'
+[4] 3:12:49 PM:  ShowStatusInfo: 'Ready'
+[4] 3:14:09 PM:  ShowStatusInfo: '1 object selected'
+[4] 3:14:09 PM:  ShowStatusInfo: 'Ready'
+[3] 3:14:15 PM: Task 'Create Branch' started on ''
+[4] 3:14:15 PM:  ShowStatusInfo: 'Create Branch'
+[4] 3:14:19 PM:  ShowStatusInfo: 'Ready'
+[4] 3:14:38 PM:  ShowStatusInfo: 'Create Branch finalizing ... '
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Multi''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Ready'
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh detail view 'Multi''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Ready'
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:14:38 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 3:14:38 PM:  ShowStatusInfo: 'Create Branch finished'
+[3] 3:14:38 PM: Task 'Create Branch' finished
+[4] 3:14:43 PM:  ShowStatusInfo: 'Ready'
+[3] 3:15:18 PM: Closing Workspace!
+[3] 3:15:18 PM: Log closed!

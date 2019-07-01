@@ -1,0 +1,4 @@
+[3] 3:15:36 PM: Log started for 'C:\Tosca_Projects\TOSCA_Workspaces\Multi\Multi.tws'
+[3] 3:15:36 PM: Log level: 4
+[3] 3:15:36 PM: Release: 11.2.0.14672
+[4] 3:17:57 PM:  ShowStatusInfo: 'Creating new Workspace to existing Common!'

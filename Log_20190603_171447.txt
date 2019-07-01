@@ -1,0 +1,4 @@
+[3] 5:14:47 PM: Log started for 'C:\Tosca_Projects\TOSCA_Workspaces\Multi\Multi.tws'
+[3] 5:14:47 PM: Log level: 4
+[3] 5:14:47 PM: Release: 11.2.0.14672
+[4] 5:14:47 PM:  ShowStatusInfo: 'Ready'
